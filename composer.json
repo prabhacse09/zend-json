@@ -1,0 +1,14 @@
+{
+  "name": "prabhacse09/zend-json",
+  "description": "Zend Framework 1 Json package extending Laminas Json",
+  "type": "library",
+  "require": {
+    "php": ">=7.0.0",
+    "laminas/laminas-json": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Zend_Json": "library/"
+    }
+  }
+}
