@@ -3,7 +3,7 @@
   "description": "Zend Framework 1 Json package extending Laminas Json",
   "type": "library",
   "require": {
-    "php": ">=7.0.0",
+    "php": "~8.0.0 || ~8.1.0 || ~8.2.0",
     "laminas/laminas-json": "*"
   },
   "autoload": {
